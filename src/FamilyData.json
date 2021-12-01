@@ -97,7 +97,7 @@
     },
     {
       "id": 19,
-      "name": "",
+      "name": "Helga Theißen",
       "gender": "woman"
     },
     {
@@ -854,11 +854,112 @@
       "id": 170,
       "name": "",
       "gender": "woman"
-    }	,
+    },
     {
       "id": 171,
       "name": "Fabian",
       "gender": "man"
+    },
+    {
+      "id": 172,
+      "name": "Christian Theißen",
+      "gender": "man"
+    },
+    {
+      "id": 173,
+      "name": "Katharina Lennartz",
+      "gender": "woman"
+    },
+    {
+      "id": 174,
+      "name": "Hubert Theißen",
+      "gender": "man"
+    },
+    {
+      "id": 175,
+      "name": "Otto",
+      "gender": "man"
+    },
+    {
+      "id": 176,
+      "name": "Josef",
+      "gender": "man"
+    },
+    {
+      "id": 177,
+      "name": "Matilde",
+      "gender": "woman"
+    },
+    {
+      "id": 178,
+      "name": "Maria",
+      "gender": "man"
+    },
+    {
+      "id": 179,
+      "name": "Franz Rosarius",
+      "gender": "man"
+    },
+    {
+      "id": 180,
+      "name": "Josef Rosarius",
+      "gender": "man"
+    },
+    {
+      "id": 181,
+      "name": "Arnold Rosarius",
+      "gender": "man"
+    },
+    {
+      "id": 182,
+      "name": "? Falter (Kesternich)",
+      "gender": "woman"
+    },
+    {
+      "id": 183,
+      "name": "Anorld Rosarius",
+      "gender": "man"
+    },
+    {
+      "id": 184,
+      "name": "Christine Theißen",
+      "gender": "woman"
+    },
+    {
+      "id": 185,
+      "name": "Laurens Klein",
+      "gender": "man"
+    },
+    {
+      "id": 186,
+      "name": "Josefine ?",
+      "gender": "woman"
+    }
+    ,
+    {
+      "id": 187,
+      "name": "",
+      "gender": "man"
+    },
+    {
+      "id": 188,
+      "name": "",
+      "gender": "woman"
+    },
+    {
+      "id": 189,
+      "name": "Margarete",
+      "gender": "woman"
+    },
+    {
+      "id": 190,
+      "name": "Sofie",
+      "gender": "woman"
+    },
+    {
+      "id": 191,
+      "name": "Sibille",
+      "gender": "woman"
     }
   ],
   "connections": [
@@ -1139,6 +1240,31 @@
       "partner1Id": 166,
       "partner2Id": 167,
       "childrenIds": []
+    },
+    {
+      "partner1Id": 183,
+      "partner2Id": 184,
+      "childrenIds": [18]
+    },
+    {
+      "partner1Id": 181,
+      "partner2Id": 182,
+      "childrenIds": [180,179,183]
+    },
+    {
+      "partner1Id": 172,
+      "partner2Id": 173,
+      "childrenIds": [184,174,175,176,177,178]
+    },
+    {
+      "partner1Id": 187,
+      "partner2Id": 188,
+      "childrenIds": [191,190,189,185]
+    },
+    {
+      "partner1Id": 185,
+      "partner2Id": 186,
+      "childrenIds": [19]
     }
   ]
 }
