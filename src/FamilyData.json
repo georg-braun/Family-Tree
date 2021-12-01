@@ -960,6 +960,26 @@
       "id": 191,
       "name": "Sibille",
       "gender": "woman"
+    },
+    {
+      "id": 193,
+      "name": "Hilarius Breidenich",
+      "gender": "man"
+    },
+    {
+      "id": 192,
+      "name": "Marianne",
+      "gender": "woman"
+    },
+    {
+      "id": 194,
+      "name": "Christof Breidenich",
+      "gender": "man"
+    },
+    {
+      "id": 195,
+      "name": "Jutta Schmiddem",
+      "gender": "woman"
     }
   ],
   "connections": [
@@ -1244,7 +1264,7 @@
     {
       "partner1Id": 183,
       "partner2Id": 184,
-      "childrenIds": [18]
+      "childrenIds": [18, 192]
     },
     {
       "partner1Id": 181,
@@ -1265,6 +1285,11 @@
       "partner1Id": 185,
       "partner2Id": 186,
       "childrenIds": [19]
+    },
+    {
+      "partner1Id": 192,
+      "partner2Id": 193,
+      "childrenIds": [194,195]
     }
   ]
 }
